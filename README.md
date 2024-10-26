@@ -1,6 +1,6 @@
 # Restaurant Reviews Sample Application - Onchain Program + Frontend
 
-Contains Onchain program on Solana written in Rust inside "program" directory and the frontend program in the root directory.
+Contains Onchain program on Solana written in Vanilla Rust inside "program" directory and the frontend written in Typescript and Next.js program in the root directory.
 
 ## Prerequisites
 Solana CLI, Rust, Cargo installed on the system. 
